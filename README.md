@@ -15,7 +15,7 @@
 
 ` ※ Tip: This profile auto-recompacts on every git push. `
 
-<!-- 打字机动画：模拟 Claude Code 思考时的提示行 -->
+<!-- 打字机动画 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=600&color=D97757&center=true&vCenter=true&width=680&lines=%E2%9D%AF+building+AI-native+tools%2C+solo;%E2%9D%AF+shipping+in+public%2C+async%2C+relentless;%E2%9D%AF+context+is+everything;%E2%9D%AF+stay+hungry." alt="Typing SVG" />
 </div>
@@ -82,14 +82,36 @@
     ⎿  AI agent experiments — in progress, ship soon
 ```
 
-<div align="center">
-  <a href="https://github.com/vlyl/mcpc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlyl&repo=mcpc&hide_border=true&bg_color=141413&title_color=D97757&text_color=F5F4ED&icon_color=D97757" />
-  </a>
-  <a href="https://github.com/vlyl/awesome-chainlink-cn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlyl&repo=awesome-chainlink-cn&hide_border=true&bg_color=141413&title_color=D97757&text_color=F5F4ED&icon_color=D97757" />
-  </a>
-</div>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+#### 🦀 [mcpc](https://github.com/vlyl/mcpc)
+
+`Rust` · MCP server scaffolding tool
+
+<sub>A fast scaffolding CLI for spinning up Model Context Protocol servers. Generate boilerplate, wire up handlers, ship in minutes.</sub>
+
+![Stars](https://img.shields.io/github/stars/vlyl/mcpc?style=flat-square&color=D97757&labelColor=141413)
+![Forks](https://img.shields.io/github/forks/vlyl/mcpc?style=flat-square&color=D97757&labelColor=141413)
+![Language](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+#### 🔗 [awesome-chainlink-cn](https://github.com/vlyl/awesome-chainlink-cn)
+
+`Curation` · Chainlink resources, in Chinese
+
+<sub>A curated list of Chainlink learning resources, tools, and tutorials for Chinese developers. Community-maintained.</sub>
+
+![Stars](https://img.shields.io/github/stars/vlyl/awesome-chainlink-cn?style=flat-square&color=D97757&labelColor=141413)
+![Forks](https://img.shields.io/github/forks/vlyl/awesome-chainlink-cn?style=flat-square&color=D97757&labelColor=141413)
+![Type](https://img.shields.io/badge/Awesome-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,13 +121,18 @@
 ⏺ Reading session metrics...
 ```
 
+<!-- 这些 SVG 由 GitHub Action 在你的仓库里生成（见 README 末尾的部署说明） -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vlyl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=141413&title_color=D97757&text_color=F5F4ED&icon_color=D97757&ring_color=D97757" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlyl&layout=compact&hide_border=true&bg_color=141413&title_color=D97757&text_color=F5F4ED&langs_count=8" />
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vlyl&hide_border=true&background=141413&stroke=D97757&ring=D97757&fire=D97757&currStreakLabel=D97757&currStreakNum=F5F4ED&sideLabels=F5F4ED&dates=F5F4ED&sideNums=F5F4ED" />
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" />
 </div>
 
 ---
@@ -114,7 +141,6 @@
 
 ```
 ⏺ Rendering contribution timeline as snake.
-  ⎿  This may take a moment.
 ```
 
 <div align="center">
@@ -138,7 +164,7 @@
 
 ---
 
-<!-- 底部状态栏，模仿 Claude Code 的 status line -->
+<!-- 底部状态栏 -->
 <div align="center">
 
 ```
@@ -146,7 +172,5 @@
   ? for shortcuts                            shannon · solo-dev
 ──────────────────────────────────────────────────────────────────
 ```
-
-  <img src="https://komarev.com/ghpvc/?username=vlyl&style=flat-square&color=D97757&label=context+window+visits" alt="Profile views" />
 
 </div>
