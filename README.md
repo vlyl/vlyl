@@ -220,8 +220,8 @@
 ```
 ⏺ Reachable via:
   ⎿  github  →  github.com/vlyl
-  ⎿  email   →  your-email@example.com
-  ⎿  x       →  x.com/your-handle
+  ⎿  email   →  hi@shannon.page
+  ⎿  x       →  x.com/quentangle_
 ```
 
 ---
@@ -231,7 +231,7 @@
 
 ```
 ──────────────────────────────────────────────────────────────────
-  ? for shortcuts                            shannon · solo-dev
+  ? for shortcuts                  shannon · AI / solo-dev / OCT
 ──────────────────────────────────────────────────────────────────
 ```
 
