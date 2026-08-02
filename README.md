@@ -3,17 +3,15 @@
 
 ```
 ╭──────────────────────────────────────────────────────────╮
-│ ✻ Welcome to shannon's GitHub.                           │
 │                                                          │
-│   /help for help, /status for your current setup         │
 │                                                          │
-│   cwd: github.com/vlyl                                   │
+│             ✻ Welcome to shannon's GitHub.               │
+│                                                          │
+│                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
 </div>
-
-` ※ Tip: This profile auto-recompacts on every git push. `
 
 <!-- 打字机动画 -->
 <div align="center">
