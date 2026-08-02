@@ -37,11 +37,12 @@
 ### `> /tools`
 
 ```
-⏺ Available tools loaded (24).
+⏺ Available tools loaded (25).
 
   ◆ Languages
     ⎿  Go         ████████░░  proficient
     ⎿  Rust       ████████░░  proficient
+    ⎿  Swift      ███████░░░  macOS native
     ⎿  TypeScript █████████░  daily driver
     ⎿  Python     ████████░░  for AI work
     ⎿  Solidity   ██████░░░░  on-chain bits
@@ -68,22 +69,96 @@
 ### `> /projects`
 
 ```
-⏺ Featured builds.
+⏺ Featured builds — freshly compacted.
 
-  ● mcpc
-    ⎿  MCP server scaffolding tool, written in Rust
-    ⎿  github.com/vlyl/mcpc
+  ● llamask
+    ⎿  Fully offline, local-first AI data masking — text, Office, PDF & images
+    ⎿  github.com/vlyl/llamask
 
-  ● awesome-chainlink-cn
-    ⎿  Curated Chainlink resources for Chinese devs
-    ⎿  github.com/vlyl/awesome-chainlink-cn
+  ● opssh
+    ⎿  OpenSSH hosts × 1Password SSH Agent — private keys never touched
+    ⎿  github.com/vlyl/opssh
 
-  ● [redacted]
-    ⎿  AI agent experiments — in progress, ship soon
+  ● rightop · delapp
+    ⎿  Native macOS utilities — Finder power-ups & a careful app uninstaller
+    ⎿  github.com/vlyl/rightop · github.com/vlyl/delapp
+
+  ● repodock
+    ⎿  Always-visible GitHub context bar for Chrome, Edge & Firefox
+    ⎿  github.com/vlyl/repodock
 ```
 
 <table align="center">
 <tr>
+<td valign="top" width="50%">
+
+#### 🦙 [llamask](https://github.com/vlyl/llamask)
+
+`Rust` · Offline AI data masking
+
+<sub>Fully offline, local-first AI data masking. Detects sensitive info in text, Office docs, PDFs & images — with human review and safe-copy export. Your data never leaves the machine.</sub>
+
+![Stars](https://img.shields.io/github/stars/vlyl/llamask?style=flat-square&color=D97757&labelColor=141413)
+![Forks](https://img.shields.io/github/forks/vlyl/llamask?style=flat-square&color=D97757&labelColor=141413)
+![Language](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+#### 🔐 [opssh](https://github.com/vlyl/opssh)
+
+`Go` · SSH hosts × 1Password
+
+<sub>Securely manage OpenSSH hosts with the 1Password SSH Agent — without reading, exporting, caching, or logging private keys.</sub>
+
+![Stars](https://img.shields.io/github/stars/vlyl/opssh?style=flat-square&color=D97757&labelColor=141413)
+![Forks](https://img.shields.io/github/forks/vlyl/opssh?style=flat-square&color=D97757&labelColor=141413)
+![Language](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 🗂️ [rightop](https://github.com/vlyl/rightop)
+
+`Swift` · Finder power-ups
+
+<sub>Native macOS Finder extension: smarter path copying, file creation, Terminal shortcuts, checksums, hidden files, and safe permanent deletion.</sub>
+
+![Stars](https://img.shields.io/github/stars/vlyl/rightop?style=flat-square&color=D97757&labelColor=141413)
+![Forks](https://img.shields.io/github/forks/vlyl/rightop?style=flat-square&color=D97757&labelColor=141413)
+![Language](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+#### 🗑️ [delapp](https://github.com/vlyl/delapp)
+
+`Swift` · Careful app uninstaller
+
+<sub>A careful, transparent macOS app uninstaller — drop an app, review its related files, and clean leftovers safely. No surprises, no orphans.</sub>
+
+![Stars](https://img.shields.io/github/stars/vlyl/delapp?style=flat-square&color=D97757&labelColor=141413)
+![Forks](https://img.shields.io/github/forks/vlyl/delapp?style=flat-square&color=D97757&labelColor=141413)
+![Language](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 🧭 [repodock](https://github.com/vlyl/repodock)
+
+`TypeScript` · GitHub context bar
+
+<sub>Always-visible GitHub context bar for Chrome, Edge & Firefox: repository, branch, file path & line range, recent-page history, and section quick-nav. Manifest V3.</sub>
+
+![Stars](https://img.shields.io/github/stars/vlyl/repodock?style=flat-square&color=D97757&labelColor=141413)
+![Forks](https://img.shields.io/github/forks/vlyl/repodock?style=flat-square&color=D97757&labelColor=141413)
+![Language](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
 <td valign="top" width="50%">
 
 #### 🦀 [mcpc](https://github.com/vlyl/mcpc)
@@ -95,19 +170,6 @@
 ![Stars](https://img.shields.io/github/stars/vlyl/mcpc?style=flat-square&color=D97757&labelColor=141413)
 ![Forks](https://img.shields.io/github/forks/vlyl/mcpc?style=flat-square&color=D97757&labelColor=141413)
 ![Language](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-#### 🔗 [awesome-chainlink-cn](https://github.com/vlyl/awesome-chainlink-cn)
-
-`Curation` · Chainlink resources, in Chinese
-
-<sub>A curated list of Chainlink learning resources, tools, and tutorials for Chinese developers. Community-maintained.</sub>
-
-![Stars](https://img.shields.io/github/stars/vlyl/awesome-chainlink-cn?style=flat-square&color=D97757&labelColor=141413)
-![Forks](https://img.shields.io/github/forks/vlyl/awesome-chainlink-cn?style=flat-square&color=D97757&labelColor=141413)
-![Type](https://img.shields.io/badge/Awesome-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)
 
 </td>
 </tr>
