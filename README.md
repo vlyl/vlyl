@@ -15,7 +15,7 @@
 
 <!-- 打字机动画 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=600&color=D97757&center=true&vCenter=true&width=680&lines=%E2%9D%AF+building+AI-native+tools%2C+solo;%E2%9D%AF+shipping+in+public%2C+async%2C+relentless;%E2%9D%AF+context+is+everything;%E2%9D%AF+stay+hungry." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=600&color=D97757&center=true&vCenter=true&width=680&lines=%E2%9D%AF+building+AI-native+tools%2C+solo;%E2%9D%AF+shipping+in+public%2C+async%2C+relentless;%E2%9D%AF+gm.+deploy+first%2C+coffee+later.;%E2%9D%AF+from+smart+contracts+to+MCP+agents;%E2%9D%AF+not+your+keys%2C+not+your+coins.;%E2%9D%AF+wagmi.+keep+building+through+the+bear.;%E2%9C%BB+Clauding%E2%80%A6+%28esc+to+interrupt%29;%E2%9C%BD+Percolating%E2%80%A6+%284s+%C2%B7+%E2%86%91+2.1k+tokens%29;%E2%9C%BB+Compacting+context%E2%80%A6+%288%25+left%29;%E2%9D%AF+stay+hungry." alt="Typing SVG" />
 </div>
 
 ---
